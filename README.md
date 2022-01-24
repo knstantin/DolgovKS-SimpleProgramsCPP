@@ -9,4 +9,4 @@ Simple programs for improve programming skills in C++
 
 **Description:**
 
-* **Converter** - Do you need to know hom much meters in kilomters, how much liters in galoon, etc? Use converter!
+* **SimpleConverter** - Do you need to know hom much meters in kilomters, how much liters in galoon, etc? Use converter!
