@@ -7,4 +7,4 @@ Simple programs for improve programming skills in C++
 
 **Description:**
 
-* **SimpleConverter** - Do you need to know how much meters in kilomters, how much liters in galoon, etc? Use converter! **(It is console application!)**
+* **SimpleConverter** - Do you need to calculate how much meters in kilomters, how much liters in galoon, etc? Use converter! **(It is console application!)**
