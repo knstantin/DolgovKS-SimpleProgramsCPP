@@ -141,6 +141,7 @@
   <ItemGroup>
     <ClCompile Include="gallontoliter.cpp" />
     <ClCompile Include="kilometertometer.cpp" />
+    <ClCompile Include="miletokilometer.cpp" />
     <ClCompile Include="SimpleConverter.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
