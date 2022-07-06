@@ -1,9 +1,10 @@
 # DolgovKS-SimpleProgramsCPP
 Simple programs for improve programming skills in C++
 
-**IDE:**
+**IDE/compiler:**
 
 * Microsoft Visual Studio 2019 Community edition
+* GCC
 
 **Description:**
 
